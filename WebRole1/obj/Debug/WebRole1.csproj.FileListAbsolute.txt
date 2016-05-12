@@ -1,0 +1,536 @@
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\csc.exe
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\vbc.exe
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\VBCSCompiler.exe
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\WebRole1.dll.config
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\WebRole1.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\WebRole1.pdb
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Antlr3.Runtime.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\EntityFramework.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\EntityFramework.SqlServer.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.Edm.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.OData.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.Services.Client.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Google.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Storage.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Newtonsoft.Json.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Owin.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Spatial.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Helpers.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Mvc.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Optimization.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Razor.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.Deployment.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.Razor.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\WebGrease.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\MonAgentListener.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.Edm.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.OData.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.Services.Client.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Storage.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Spatial.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Helpers.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Mvc.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Optimization.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Razor.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.Deployment.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.Razor.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Antlr3.Runtime.pdb
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Newtonsoft.Json.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\EntityFramework.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\EntityFramework.SqlServer.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Google.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\de\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\es\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\fr\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\it\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\ja\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\ko\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\ru\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\de\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\es\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\fr\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\it\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\ja\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\ko\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\ru\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\obj\Debug\WebRole1.csprojResolveAssemblyReference.cache
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\obj\Debug\WebRole1.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\obj\Debug\WebRole1.pdb
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.ServiceBus.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.ServiceBus.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\DynamicImageHandler.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\DynamicImageHandler.ImageTool.FreeImage.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\DynamicImageHandler.ImageTool.Wpf.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\FreeImageNET.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Azure.KeyVault.Core.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Azure.KeyVault.Core.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET-x64.dll
+C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET.Core.dll
+C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET.Wrapper-x64.dll
+C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET-x64.xml
+C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET.Core.xml
+C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET.Wrapper-x64.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\csc.exe
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\vbc.exe
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\VBCSCompiler.exe
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\WebRole1.dll.config
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\WebRole1.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\WebRole1.pdb
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Antlr3.Runtime.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\DynamicImageHandler.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\DynamicImageHandler.ImageTool.FreeImage.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\DynamicImageHandler.ImageTool.Wpf.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\EntityFramework.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\EntityFramework.SqlServer.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\FreeImageNET.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET-x64.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET.Core.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET.Wrapper-x64.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.Edm.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.OData.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.Services.Client.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.ServiceBus.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Newtonsoft.Json.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Owin.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Spatial.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Helpers.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Mvc.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Optimization.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Razor.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.Razor.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\WebGrease.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\MonAgentListener.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET-x64.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET.Core.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET.Wrapper-x64.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.Edm.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.OData.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.Services.Client.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.ServiceBus.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Newtonsoft.Json.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Spatial.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Helpers.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Mvc.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Optimization.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Razor.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.Razor.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Antlr3.Runtime.pdb
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\EntityFramework.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\EntityFramework.SqlServer.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\de\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\es\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\fr\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\it\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ja\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ko\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ru\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\obj\Debug\WebRole1.csprojResolveAssemblyReference.cache
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\obj\Debug\WebRole1.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\obj\Debug\WebRole1.pdb
+E:\Cloud\ConvertIO\WebRole1\bin\roslyn\csc.exe
+E:\Cloud\ConvertIO\WebRole1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Cloud\ConvertIO\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Cloud\ConvertIO\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Cloud\ConvertIO\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Cloud\ConvertIO\WebRole1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Cloud\ConvertIO\WebRole1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Cloud\ConvertIO\WebRole1\bin\roslyn\System.Collections.Immutable.dll
+E:\Cloud\ConvertIO\WebRole1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Cloud\ConvertIO\WebRole1\bin\roslyn\vbc.exe
+E:\Cloud\ConvertIO\WebRole1\bin\roslyn\VBCSCompiler.exe
+E:\Cloud\ConvertIO\WebRole1\bin\roslyn\VBCSCompiler.exe.config
+E:\Cloud\ConvertIO\WebRole1\bin\WebRole1.dll.config
+E:\Cloud\ConvertIO\WebRole1\bin\WebRole1.dll
+E:\Cloud\ConvertIO\WebRole1\bin\WebRole1.pdb
+E:\Cloud\ConvertIO\WebRole1\bin\Antlr3.Runtime.dll
+E:\Cloud\ConvertIO\WebRole1\bin\DynamicImageHandler.dll
+E:\Cloud\ConvertIO\WebRole1\bin\DynamicImageHandler.ImageTool.FreeImage.dll
+E:\Cloud\ConvertIO\WebRole1\bin\DynamicImageHandler.ImageTool.Wpf.dll
+E:\Cloud\ConvertIO\WebRole1\bin\EntityFramework.dll
+E:\Cloud\ConvertIO\WebRole1\bin\EntityFramework.SqlServer.dll
+E:\Cloud\ConvertIO\WebRole1\bin\FreeImageNET.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Magick.NET-x64.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Magick.NET.Core.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Magick.NET.Wrapper-x64.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Azure.KeyVault.Core.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Data.Edm.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Data.OData.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Data.Services.Client.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Google.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.ServiceBus.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Web.Infrastructure.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Storage.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Newtonsoft.Json.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Owin.dll
+E:\Cloud\ConvertIO\WebRole1\bin\System.Spatial.dll
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.Helpers.dll
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.Mvc.dll
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.Optimization.dll
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.Razor.dll
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.WebPages.Deployment.dll
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.WebPages.dll
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.WebPages.Razor.dll
+E:\Cloud\ConvertIO\WebRole1\bin\WebGrease.dll
+E:\Cloud\ConvertIO\WebRole1\bin\MonAgentListener.dll
+E:\Cloud\ConvertIO\WebRole1\bin\Magick.NET-x64.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Magick.NET.Core.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Magick.NET.Wrapper-x64.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Azure.KeyVault.Core.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Data.Edm.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Data.OData.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Data.Services.Client.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.ServiceBus.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Storage.pdb
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Storage.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Newtonsoft.Json.xml
+E:\Cloud\ConvertIO\WebRole1\bin\System.Spatial.xml
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.Helpers.xml
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.Mvc.xml
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.Optimization.xml
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.Razor.xml
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.WebPages.xml
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.WebPages.Deployment.xml
+E:\Cloud\ConvertIO\WebRole1\bin\System.Web.WebPages.Razor.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Antlr3.Runtime.pdb
+E:\Cloud\ConvertIO\WebRole1\bin\EntityFramework.xml
+E:\Cloud\ConvertIO\WebRole1\bin\EntityFramework.SqlServer.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Google.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Cloud\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Cloud\ConvertIO\WebRole1\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\de\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\es\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\it\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\de\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\es\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\fr\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\it\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\ja\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\ko\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\ru\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\de\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\es\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\fr\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\it\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\ja\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\ko\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\ru\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\zh-Hans\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WebRole1\bin\zh-Hant\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WebRole1\obj\Debug\WebRole1.csprojResolveAssemblyReference.cache
+E:\Cloud\ConvertIO\WebRole1\obj\Debug\WebRole1.dll
+E:\Cloud\ConvertIO\WebRole1\obj\Debug\WebRole1.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\csc.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\vbc.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\WebRole1.dll.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\WebRole1.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\WebRole1.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Antlr3.Runtime.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\DynamicImageHandler.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\DynamicImageHandler.ImageTool.FreeImage.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\DynamicImageHandler.ImageTool.Wpf.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\EntityFramework.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\FreeImageNET.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET-x64.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET.Core.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET.Wrapper-x64.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.Edm.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.OData.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.ServiceBus.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Newtonsoft.Json.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Owin.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Spatial.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Helpers.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Mvc.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Optimization.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Razor.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\WebGrease.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\MonAgentListener.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET-x64.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET.Core.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Magick.NET.Wrapper-x64.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.Edm.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.OData.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.ServiceBus.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Newtonsoft.Json.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Spatial.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Helpers.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Mvc.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Optimization.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.Razor.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Antlr3.Runtime.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\EntityFramework.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\de\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\es\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\fr\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\it\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ja\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ko\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\ru\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\obj\Debug\WebRole1.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\obj\Debug\WebRole1.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WebRole1\obj\Debug\WebRole1.pdb

@@ -1,0 +1,19 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Emulator config file set to C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\ConvertIO\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] DiagnosticsStoreRootPath set to: C:\Users\eldra\AppData\Local\dftmp\Resources\c0f15edd-b3aa-46bc-86f9-f447d768953b
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Loading config file: C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\ConvertIO\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Config file to read: C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\ConvertIO\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Emulator config file set to C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\ConvertIO\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:20:43 AM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:21:53 AM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [12/05/2016 9:21:53 AM] DiagnosticPlugin exited with code 0

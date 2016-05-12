@@ -1,0 +1,40 @@
+﻿@model WebRole1.Models.ExternalLoginListViewModel
+@using Microsoft.Owin.Security
+
+<hr />
+@{
+    var loginProviders = Context.GetOwinContext().Authentication.GetExternalAuthenticationTypes();
+    if (loginProviders.Count() == 0)
+    {
+        <div>
+            <p>
+                There are no external authentication services configured. See <a href="http://go.microsoft.com/fwlink/?LinkId=403804">this article</a>
+                for details on setting up this ASP.NET application to support logging in via external services.
+            </p>
+        </div>
+    }
+    else
+    {
+        using (Html.BeginForm("ExternalLogin", "Account", new { ReturnUrl = Model.ReturnUrl }))
+        {
+            @Html.AntiForgeryToken()
+            <div class="container">
+
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="form-signin-heading">Log in using</h3>
+                    </div>
+                    <div id="socialLoginList" class="panel-body">
+                        <p>
+                            @foreach (AuthenticationDescription p in loginProviders)
+                            {
+                                <br />
+                                <button type="submit" class="form-control" id="@p.AuthenticationType" name="provider" value="@p.AuthenticationType" title="Log in using your @p.Caption account">@p.AuthenticationType</button>
+                            }
+                        </p>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+}

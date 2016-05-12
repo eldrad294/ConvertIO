@@ -1,0 +1,300 @@
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\WorkerRole1.dll.config
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\WorkerRole1.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\WorkerRole1.pdb
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Edm.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.OData.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Services.Client.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Newtonsoft.Json.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\System.Spatial.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\MonAgentListener.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Edm.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.OData.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Services.Client.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Newtonsoft.Json.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\System.Spatial.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\de\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\es\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\it\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\de\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\es\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\fr\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\it\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ja\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ko\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ru\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\System.Spatial.resources.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\obj\Debug\WorkerRole1.csprojResolveAssemblyReference.cache
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\obj\Debug\WorkerRole1.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\obj\Debug\WorkerRole1.pdb
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\DynamicImageHandler.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\DynamicImageHandler.ImageTool.FreeImage.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\DynamicImageHandler.ImageTool.Wpf.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\FreeImageNET.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Kaliko.ImageLibrary.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Kaliko.ImageLibrary.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+c:\users\eldra\documents\visual studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET-x64.dll
+C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Core.dll
+C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Wrapper-x64.dll
+C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET-x64.xml
+C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Core.xml
+C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Wrapper-x64.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\WorkerRole1.dll.config
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\WorkerRole1.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\WorkerRole1.pdb
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\DynamicImageHandler.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\DynamicImageHandler.ImageTool.FreeImage.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\DynamicImageHandler.ImageTool.Wpf.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\FreeImageNET.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Kaliko.ImageLibrary.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET-x64.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Core.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Wrapper-x64.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\System.Spatial.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\MonAgentListener.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Kaliko.ImageLibrary.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET-x64.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Core.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Wrapper-x64.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\System.Spatial.xml
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\obj\Debug\WorkerRole1.csprojResolveAssemblyReference.cache
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\obj\Debug\WorkerRole1.dll
+C:\Users\eldrad294\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\obj\Debug\WorkerRole1.pdb
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\WorkerRole1.dll.config
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\WorkerRole1.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\WorkerRole1.pdb
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\DynamicImageHandler.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\DynamicImageHandler.ImageTool.FreeImage.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\DynamicImageHandler.ImageTool.Wpf.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\FreeImageNET.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Kaliko.ImageLibrary.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Magick.NET-x64.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Core.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Wrapper-x64.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Edm.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.OData.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Services.Client.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.ServiceBus.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Newtonsoft.Json.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\System.Spatial.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\MonAgentListener.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Kaliko.ImageLibrary.xml
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Magick.NET-x64.xml
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Core.xml
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Wrapper-x64.xml
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Edm.xml
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.OData.xml
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Services.Client.xml
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.ServiceBus.xml
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\Newtonsoft.Json.xml
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\System.Spatial.xml
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\de\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\es\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\fr\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\it\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\ja\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\ko\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\ru\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Cloud\ConvertIO\WorkerRole1\obj\Debug\WorkerRole1.csprojResolveAssemblyReference.cache
+E:\Cloud\ConvertIO\WorkerRole1\obj\Debug\WorkerRole1.dll
+E:\Cloud\ConvertIO\WorkerRole1\obj\Debug\WorkerRole1.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\WorkerRole1.dll.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\WorkerRole1.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\WorkerRole1.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\DynamicImageHandler.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\DynamicImageHandler.ImageTool.FreeImage.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\DynamicImageHandler.ImageTool.Wpf.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\FreeImageNET.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Kaliko.ImageLibrary.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET-x64.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Core.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Wrapper-x64.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\System.Spatial.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\MonAgentListener.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Kaliko.ImageLibrary.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET-x64.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Core.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Magick.NET.Wrapper-x64.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\System.Spatial.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\obj\Debug\WorkerRole1.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\obj\Debug\WorkerRole1.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\ConvertIO\WorkerRole1\obj\Debug\WorkerRole1.pdb
