@@ -19,6 +19,7 @@ namespace WebRole1.Controllers
         private static string connectionString = CloudConfigurationManager.GetSetting("Microsoft.ServiceBus.ConnectionString");
         private QueueClient Client = QueueClient.CreateFromConnectionString(connectionString, "ConvertIO");
 
+        [HttpGet]
         public ActionResult Index()
         {
             ViewBag.UploadMarker = "false";

@@ -27,13 +27,7 @@
       <Content destination=".\">
         <SourceDirectory path="C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\ConvertIO\rcf\Debug\WebRole1Content\" />
       </Content>
-      <Content destination=".\">
-        <SourceDirectory path="C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\ConvertIO\ecf\WebRole1Content\" />
-      </Content>
     </Contents>
-    <Imports>
-      <Import moduleName="Diagnostics" />
-    </Imports>
   </WebRole>
   <WorkerRole name="WorkerRole1" vmsize="Small">
     <ConfigurationSettings>
@@ -43,12 +37,6 @@
       <Content destination=".\">
         <SourceDirectory path="C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\ConvertIO\rcf\Debug\WorkerRole1Content\" />
       </Content>
-      <Content destination=".\">
-        <SourceDirectory path="C:\Users\eldra\Documents\Visual Studio 2015\Projects\ConvertIO\ConvertIO\ecf\WorkerRole1Content\" />
-      </Content>
     </Contents>
-    <Imports>
-      <Import moduleName="Diagnostics" />
-    </Imports>
   </WorkerRole>
 </ServiceDefinition>
